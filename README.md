@@ -5,7 +5,7 @@ This is the Machine Learning project using Logistic Regression Model to predict 
 Accuracy result on test data :  0.7619047619047619
 
 ### Download the Dataset from here :
-https://drive.google.com/file/d/1pZsKWzL_3arL2Pin9D8f7P7bWTxURtbo/view?usp=drivesdk
+https://drive.google.com/file/d/1YgchxVwdvLkA3X1yU5eRVkT86EICCdvS/view?usp=drivesdk
 
 ### Ouptput
 
